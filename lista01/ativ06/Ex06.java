@@ -24,8 +24,8 @@ public class Ex06 {
         while (true) {
             guesser.generateGuess();
             guesser.count();
-            System.out.println("My guess is " + guesser.getGuess() +
-                    "\nI won? (y/n)");
+            System.out.print("My guess is " + guesser.getGuess() +
+                    "\nI won? (y/n): ");
 
             if (guesser.iGuessed(sc1.nextLine()))
                 break;
