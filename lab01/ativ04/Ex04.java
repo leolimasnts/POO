@@ -1,3 +1,8 @@
+/*
+Write a Java program that reads an integer N from input and
+recursively calculate its factorial.
+*/
+
 package ativ04;
 
 import java.util.Scanner;

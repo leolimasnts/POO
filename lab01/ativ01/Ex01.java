@@ -1,3 +1,9 @@
+/*
+Write a program in Java that reads 2 input rays R and r and
+calculates the area of ​​the circular crown A = pi * (R^2 - r^2).
+Consider pi = 3.14159 
+*/
+
 package ativ01;
 
 import java.util.Scanner;
@@ -16,7 +22,7 @@ public class Ex01 {
 
         sc1.close();
 
-        if(c1.radius < c2.radius) {
+        if (c1.radius < c2.radius) {
             double aux = c1.radius;
             c1.radius = c2.radius;
             c2.radius = aux;
@@ -24,7 +30,5 @@ public class Ex01 {
 
         crownArea = c1.getArea() - c2.getArea();
         System.out.println("Area: " + crownArea);
-    }   
+    }
 }
-
-

@@ -1,3 +1,12 @@
+/*
+Write a Java program that takes both grades from a student and
+Calculate whether the student passed the final exam or failed. 
+Consider:
+    Approval: Average >= 7;
+    Final test: 3 <= Average < 7;
+    Failure: Average < 3. 
+*/
+
 package ativ03;
 
 import java.util.Scanner;

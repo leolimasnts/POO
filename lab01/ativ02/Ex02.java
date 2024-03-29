@@ -1,3 +1,9 @@
+/*
+Write a Java program that asks the user for their name, age,
+andheight and print the three pieces of information on the
+screen. 
+*/
+
 package ativ02;
 
 import java.util.Scanner;

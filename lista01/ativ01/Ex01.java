@@ -1,3 +1,9 @@
+/*
+Write a program that calculates the average grade for a class.
+Notes will be inserted until a score of -1 is found, where the
+program returns the calculated average.
+*/
+
 package ativ01;
 
 import java.util.Scanner;

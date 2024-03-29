@@ -1,3 +1,11 @@
+/*
+Make a program that creates an iterative calculator.Supported
+operations are: addition (+), subtraction (-), multiplication (*)
+and division (/). The user chooses first the operation and then
+enter the values ​​needed for the operation. O user can keep
+choosing until typing „s‟ (or „S‟) in the operations menu.
+*/
+
 package ativ04;
 
 import java.util.Scanner;

@@ -1,8 +1,12 @@
+/*
+(Beecrowd 2702)
+*/
+
 package ativ02;
 
 import java.util.Scanner;
 
-public class Ex01 {
+public class Ex02 {
     public static void main(String[] args) {
         Scanner sc1 = new Scanner(System.in);
 

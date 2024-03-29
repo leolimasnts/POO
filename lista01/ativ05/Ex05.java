@@ -1,3 +1,7 @@
+/*
+(Beecrowd 1017)
+*/
+
 package ativ05;
 
 import java.text.DecimalFormat;

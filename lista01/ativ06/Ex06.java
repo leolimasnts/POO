@@ -1,3 +1,14 @@
+/*
+Make a program that
+a) guess the number the user thought of between 0 and 100 and
+b) say the number of calls the program needed to make to find
+the number.
+
+Your program should only ask the user if the number printed on
+the screen is the number correct. If not, ask if the number is
+greater or less than that displayed.
+*/
+
 package ativ06;
 
 import java.util.Scanner;
